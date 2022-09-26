@@ -1,2 +1,2 @@
 # Guessing-the-Number
-## my first game <a herf="https://Alaguduraiag2112.github.io/Guessing-the-Number/">Link</a>
+## my first game <a herf="https://github.com/Alaguduraiag2112/Guessing-the-Number">Link</a>
