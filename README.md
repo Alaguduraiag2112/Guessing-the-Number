@@ -1,3 +1,3 @@
 # easybank
 
-## my first responsive site <a href="https://github.com/Alaguduraiag2112/Guessing-the-Number/blob/main/jscode.html">Link</a>
+## my first responsive site <a href="https://Alaguduraiag2112.github.io/Guessing-the-Number/">Link</a>
