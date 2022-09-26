@@ -1,2 +1,2 @@
 # Guessing-the-Number
-this project is about guessing number by using html,css,javascript 
+## my first game <a herf=""https://github.com/Alaguduraiag2112/Guessing-the-Number/blob/main/jscode.html></a>
